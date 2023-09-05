@@ -1,0 +1,17 @@
+a:link {
+    color: #007bff; /* Default link color (blue) */
+    text-decoration: none; /* Remove underline */
+}
+
+a:visited {
+    color: #551a8b; /* Visited link color (purple) */
+}
+
+a:hover {
+    color: #ff6347; /* Link color on hover (tomato) */
+    text-decoration: underline; /* Underline on hover */
+}
+
+a:active {
+    color: #ff1493; /* Active link color (deep pink) */
+}

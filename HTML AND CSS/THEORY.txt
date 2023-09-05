@@ -1,0 +1,47 @@
+1.WEBSITES:-
+     A group of interlinked and well structured web pages that exist on the same domin is called websites. Websites can contain single or thousand pages. Websites run on any internet browsers such as chrome, fire fox, internet explorer etc. There are two types of website.1)STATIC 2)DYNAMIC. A static website contains web pages with fixed content. Each page is coded in HTML and displays the same information to every viitor. Dynamic website can contain web pages which are user friendly. User may interact with those pages. In dynamic web pages, Content of pages are different for different visitors. We can post,Comment on dynamic websites.
+
+2.WEBPAGE:-
+      A web page is document that is suitable for the web browsers. They are usually written in HTMLand can be accessed by entering a URL into a web browser's address bar. A web page is a digital document or resource that is accessible on the internet and is designed to be displayed in a web browser. Web pages are typically created using HTML, which is a markup language that defines the structure and content of the page. HTML uses tags to specify headings, paragraphs, links, images, and other elements.
+
+3.WEB BROWSER:-
+      A software application used to access information on the World Wide Web is called a Web Browser. When a user requests some information, the web browser fetches the data from a web server and then displays the webpage on the user's screen.web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari, and Opera. Each browser has its own set of features and performance characteristics, and users can choose the one that best suits their preferences and needs. Web browsers play a crucial role in enabling access to the vast and diverse content available on the internet.
+
+4. WEB SERVER:-
+        web server is a computer system capable of delivering web content to end users over the internet via a web browser.Generally, the type of web server depends on the platform used to create your website. A web server can also use multiple operating systems and application stacks to run different websites on the same machine.A web server is a system that delivers content or services to end users over the internet. A web server consists of a physical server, server operating system (OS) and software used to facilitate HTTP communication. A web server is also known as an internet server.
+
+5.HTML:-
+     HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists     of a series of elements.It uses special codes called "tags" to define different elements like headings, paragraphs, images, and links. These tags tell web browsers how to display the content on a webpage. HTML is the foundation of the web and is essential for anyone wanting to build and design websites.
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>My First Web Page</title>
+    </head>
+    <body>
+        <h1>Welcome to My Website</h1>
+        <p>This is a paragraph of text on my web page.</p>
+    </body>
+    </html>
+
+  -><!DOCTYPE html> declares the document type and version of HTML being used.
+     <html> is the root element of the web page.
+     <head> contains metadata about the page, such as the title.
+     <title> sets the title displayed in the browser's tab or window.
+     <body> contains the main content of the web page.
+     <h1> is a top-level heading.
+     <p> is a paragraph of text.
+
+6.CSS:-
+     SS is a language that web developers use to control how web pages look. It defines the colors, fonts, spacing, and layout of elements on a webpage. With CSS, you can make text and images look attractive, arrange content in columns or grids, and ensure that your website looks good on different devices, like desktop computers and smartphones. CSS works alongside HTML to separate the content (HTML) from its presentation (CSS), making it easier to design and maintain websites.
+
+     	 h1 and p are HTML elements that we're targeting for styling.
+         color sets the text color.
+         font-size adjusts the font size.
+         text-align controls text alignment.
+         margin-top adds space above the h1 element.
+         line-height adjusts the spacing between lines of text for the p element.
+
+
+
+
